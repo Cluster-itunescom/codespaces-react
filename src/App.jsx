@@ -1,6 +1,6 @@
 import './App.css';
 
-function App() {
+function App(Cluster0) {
   return (
     <div className="App">
       <header className="App-header">
